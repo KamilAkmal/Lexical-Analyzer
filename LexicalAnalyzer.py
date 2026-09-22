@@ -8,8 +8,7 @@ and unclosed/mismatched HTML tags) both live and upon file loading.
 Supports C, C++, Java, Python, and HTML.
 Built with Python's standard library (tkinter + re).
 
-Run:
-    python lexical_analyzer.py
+
 """
 
 import re
