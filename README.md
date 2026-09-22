@@ -21,9 +21,6 @@ A desktop GUI tool that tokenizes source code and highlights syntax errors — l
 - **Export** the generated token list to a `.txt` file
 - **Light / Dark theme** toggle
 
-## Screenshots
-
-*(Add a screenshot or GIF of the app here, e.g. `docs/screenshot.png`)*
 
 ## Getting Started
 
